@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: d07101fde7e96ea4ab2083600b6fdcd4
+timeCreated: 1481188323
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Anvil
+    100002: Back_Door_Frame
+    100004: Back_Wall
+    100006: Cylinder
+    100008: Dagger
+    100010: Floor
+    100012: //RootNode
+    100014: Forge_Top
+    100016: Grindstone
+    100018: Hammer
+    100020: Ingot_Table
+    100022: Left_Wall
+    100024: Right_Wall
+    100026: Toolrack
+    400000: Anvil
+    400002: Back_Door_Frame
+    400004: Back_Wall
+    400006: Cylinder
+    400008: Dagger
+    400010: Floor
+    400012: //RootNode
+    400014: Forge_Top
+    400016: Grindstone
+    400018: Hammer
+    400020: Ingot_Table
+    400022: Left_Wall
+    400024: Right_Wall
+    400026: Toolrack
+    2300000: Anvil
+    2300002: Back_Door_Frame
+    2300004: Back_Wall
+    2300006: Cylinder
+    2300008: Dagger
+    2300010: Floor
+    2300012: Forge_Top
+    2300014: Grindstone
+    2300016: Hammer
+    2300018: Ingot_Table
+    2300020: Left_Wall
+    2300022: Right_Wall
+    2300024: Toolrack
+    3300000: Anvil
+    3300002: Back_Door_Frame
+    3300004: Back_Wall
+    3300006: Cylinder
+    3300008: Dagger
+    3300010: Floor
+    3300012: Forge_Top
+    3300014: Grindstone
+    3300016: Hammer
+    3300018: Ingot_Table
+    3300020: Left_Wall
+    3300022: Right_Wall
+    3300024: Toolrack
+    4300000: Dagger
+    4300002: Ingot_Table
+    4300004: Grindstone
+    4300006: Hammer
+    4300008: Toolrack
+    4300010: Anvil
+    4300012: Forge_Top
+    4300014: Cylinder
+    4300016: Back_Door_Frame
+    4300018: Back_Wall
+    4300020: Right_Wall
+    4300022: Left_Wall
+    4300024: Floor
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
