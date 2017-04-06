@@ -22,7 +22,7 @@
         protected override void Update()
         {
             base.Update();
-            changeColor();
+            //changeColor();
         }
 
         private void changeColor()
@@ -41,6 +41,45 @@
                 }
             }
 
+        }
+
+        /*
+        void onCollisionEnter(Collider other)
+        {
+            Debug.Log("Object Entered Trigger");
+            if (other.gameObject.tag.Equals("forge") == true)
+            //if (other.transform.gameObject.name == "forgeSpot")
+            {
+                changeColor();
+
+            }
+
+        }
+
+        void onCollisionStay(Collider other)
+        {
+            Debug.Log("Object still in Trigger");
+            if (other.gameObject.tag.Equals("forge") == true)
+            //if (other.transform.gameObject.name == "forgeSpot")
+            {
+                changeColor();
+
+            }
+
+        }
+        */
+
+
+        public override void StartTouching(GameObject currentTouchingObject)
+        {
+            base.StartTouching(currentTouchingObject);
+            Debug.Log("Object Touching");
+            changeColor();
+
+            if (currentTouchingObject.gameObject.tag.Equals("forge") == true)
+            {
+                Debug.Log("Touching Forge");
+            }
         }
 
         private bool inForge()
